@@ -12,6 +12,8 @@
 - [Datasets](sections/datasets.md)
 - [Papers](sections/papers.md)
 - [Projects](sections/projects.md)
+- [Courses](sections/courses.md)
+
 
 ## Contributing
 > coming soon!
