@@ -10,6 +10,7 @@
         - [Language Modeling](#language-modeling-lm)
       - [Speech Processing]()
         - [Text To Speech](#text-to-speech-tts)
+        - [Speech Recognition](#speech-recognition-asr--stt)
       
     
 
@@ -20,3 +21,6 @@
 - [naab: A ready-to-use plug-and-play corpus for Farsi](../resources/naab%20A%20ready-to-use%20plug-and-play%20corpus%20for%20Farsi.pdf)
 ## Text To Speech (TTS)
 - [طراحی و ضبط پایگاه دادگان گفتاری برای سیستم های تبدیل متن به گفتار فارسی](../resources/%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C%20%D9%88%20%D8%B6%D8%A8%D8%B7%20%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87%20%D8%AF%D8%A7%D8%AF%DA%AF%D8%A7%D9%86%20%DA%AF%D9%81%D8%AA%D8%A7%D8%B1%DB%8C%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%B3%DB%8C%D8%B3%D8%AA%D9%85%20%D9%87%D8%A7%DB%8C%20%D8%AA%D8%A8%D8%AF%DB%8C%D9%84%20%D9%85%D8%AA%D9%86%20%D8%A8%D9%87%20%DA%AF%D9%81%D8%AA%D8%A7%D8%B1%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C.pdf)
+
+## Speech Recognition (ASR | STT)
+- [Whisper Robust Speech Recognition via Large-Scale Weak Supervision](../resources/Whisper%20Robust%20Speech%20Recognition%20via%20Large-Scale%20Weak%20Supervision.pdf)
