@@ -3,12 +3,12 @@
 # Papers
 
 ## Table Of Contents
-- [Artificial Intelligence]
-  - [Machine Learning and Deep Learning]
-    - [Natural Language Processing]
-      - [Text Processing]
+- [Artificial Intelligence]()
+  - [Machine Learning and Deep Learning]()
+    - [Natural Language Processing]()
+      - [Text Processing]()
         - [Language Modeling](#language-modeling-lm)
-      - [Speech Processing]
+      - [Speech Processing]()
         - [Text To Speech](#text-to-speech-tts)
       
     
