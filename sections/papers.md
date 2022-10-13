@@ -1,6 +1,6 @@
 <img src="https://github.com/IKJ1992/Shelf/blob/master/images/logo.PNG" width="35%" height="35%" align="right" />
 
-# Papers
+# Shelf.Papers 
 
 ## Table Of Contents
 - [Artificial Intelligence]()
