@@ -3,7 +3,7 @@
 <img src="https://github.com/IKJ1992/Shelf/blob/master/images/logo.PNG" width="35%" height="35%" align="right" />
 
 # Shelf | a Wide and Open Shelf for AI and Data Science
-Shelf is an open knowledge base for artificial intelligence and data science. There are items on the Shelf that have been selected and evaluated by experts. We grow Shelf together gradually. Shelf has the following types of items:
+Shelf is an open knowledge base for artificial intelligence and data science. There are items on Shelf that have been selected and evaluated by experts. We grow Shelf together gradually. Shelf has the following types of items:
 ## Contents
 - [Tools](sections/tools.md)
 - [Models](sections/models.md)
