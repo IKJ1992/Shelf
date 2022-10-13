@@ -11,6 +11,7 @@
 - [Repositories](sections/repos.md)
 - [Datasets](sections/datasets.md)
 - [Papers](sections/papers.md)
+- [Books](sections/books.md)
 - [Projects](sections/projects.md)
 - [Courses](sections/courses.md)
 
