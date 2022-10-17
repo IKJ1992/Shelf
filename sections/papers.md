@@ -8,6 +8,7 @@
     - [Natural Language Processing]()
       - [Text Processing]()
         - [Language Modeling](#language-modeling-lm)
+        - [Paraphrase Generation](#paraphrase-generation)
       - [Speech Processing]()
         - [Text To Speech](#text-to-speech-tts)
         - [Speech Recognition](#speech-recognition-asr--stt)
@@ -24,3 +25,6 @@
 
 ## Speech Recognition (ASR | STT)
 - [Whisper Robust Speech Recognition via Large-Scale Weak Supervision](../resources/Whisper%20Robust%20Speech%20Recognition%20via%20Large-Scale%20Weak%20Supervision.pdf)
+
+## Paraphrase Generation
+- [ParaSCI: A Large Scientific Paraphrase Dataset for Longer Paraphrase Generation](../resources/ParaSCI%20A%20Large%20Scientific%20Paraphrase%20Dataset%20for%20Longer%20Paraphrase%20Generation.pdf)
