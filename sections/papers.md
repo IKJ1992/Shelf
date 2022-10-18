@@ -7,7 +7,7 @@
   - [Machine Learning and Deep Learning]()
     - [Natural Language Processing]()
       - [Text Processing]()
-        - [Natural language Understanding]
+        - [Natural language Understanding](#natural-language-understanding)
         - [Natural language Generation]()
           - [Language Modeling](#language-modeling-lm)
           - [Paraphrase Generation](#paraphrase-generation)
