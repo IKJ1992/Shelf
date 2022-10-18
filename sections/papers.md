@@ -7,8 +7,10 @@
   - [Machine Learning and Deep Learning]()
     - [Natural Language Processing]()
       - [Text Processing]()
-        - [Language Modeling](#language-modeling-lm)
-        - [Paraphrase Generation](#paraphrase-generation)
+        - [Natural language Understanding]
+        - [Natural language Generation]()
+          - [Language Modeling](#language-modeling-lm)
+          - [Paraphrase Generation](#paraphrase-generation)
       - [Speech Processing]()
         - [Text To Speech](#text-to-speech-tts)
         - [Speech Recognition](#speech-recognition-asr--stt)
@@ -29,3 +31,6 @@
 ## Paraphrase Generation
 - [ParaSCI: A Large Scientific Paraphrase Dataset for Longer Paraphrase Generation](../resources/ParaSCI%20A%20Large%20Scientific%20Paraphrase%20Dataset%20for%20Longer%20Paraphrase%20Generation.pdf)
 - [ExaPPC: a Large-Scale Persian Paraphrase Detection Corpus](../resources/ExaPPC%20a%20Large-Scale%20Persian%20Paraphrase%20Detection.pdf)
+
+## Natural Language Understanding
+- [PARSINLU: A Suite of Language Understanding Challenges for Persian](../resources/PARSINLU%20A%20Suite%20of%20Language%20Understanding%20Challenges%20for%20Persian.pdf)
