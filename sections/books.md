@@ -5,7 +5,7 @@
 ## Table Of Contents
 - [Artificial Intelligence]()
   - [Machine Learning and Deep Learning]()
-    - [Natural Language Processing]()
+    - [Natural Language Processing](#natural-language-processing-nlp)
       - [Text Processing]()
       - [Speech Processing]()
         - [Text To Speech](#text-to-speech-tts)
