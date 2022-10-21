@@ -23,6 +23,6 @@
 ](https://www.youtube.com/watch?v=WFcH7kRNEBc&list=PLehuLRPyt1Hwqk1BopyiREdPfJng2cuNQ&index=7)
 
 ## Transformers
--[Ali Ghodsi, Lect 13 (Fall 2020): Deep learning, Transformer, BERT, GPT
+- [Ali Ghodsi, Lect 13 (Fall 2020): Deep learning, Transformer, BERT, GPT
 ](https://www.youtube.com/watch?v=APzuQoScLfc)
       

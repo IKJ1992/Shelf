@@ -20,10 +20,10 @@
       
     
 ## Attention
--[All you need to know about ‘Attention’ and ‘Transformers’ — In-depth Understanding — Part 1](https://towardsdatascience.com/all-you-need-to-know-about-attention-and-transformers-in-depth-understanding-part-1-552f0b41d021)
+- [All you need to know about ‘Attention’ and ‘Transformers’ — In-depth Understanding — Part 1](https://towardsdatascience.com/all-you-need-to-know-about-attention-and-transformers-in-depth-understanding-part-1-552f0b41d021)
 ## Transformers
--[A Gentle Introduction to Positional Encoding In Transformer Models, Part 1](https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/#:~:text=Transformers%20use%20a%20smart%20positional,summed%20with%20its%20positional%20information.)
--[All you need to know about ‘Attention’ and ‘Transformers’ — In-depth Understanding — Part 2](https://towardsdatascience.com/all-you-need-to-know-about-attention-and-transformers-in-depth-understanding-part-2-bf2403804ada)
+- [A Gentle Introduction to Positional Encoding In Transformer Models, Part 1](https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/#:~:text=Transformers%20use%20a%20smart%20positional,summed%20with%20its%20positional%20information.)
+- [All you need to know about ‘Attention’ and ‘Transformers’ — In-depth Understanding — Part 2](https://towardsdatascience.com/all-you-need-to-know-about-attention-and-transformers-in-depth-understanding-part-2-bf2403804ada)
 
 ## Language Modeling (LM)
 - [Chain of Thought Prompting Elicits Reasoning in Large Language Models](../resources/Chain%20of%20Thought%20Prompting%20Elicits%20Reasoning%20in%20Large%20Language%20Models.pdf)
