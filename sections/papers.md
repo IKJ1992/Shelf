@@ -10,6 +10,7 @@
       - [Transformers](#transformers)
     - [Natural Language Processing]()
       - [Text Processing]()
+        - [Corpus]()
         - [Natural language Understanding](#natural-language-understanding)
         - [Natural language Generation]()
           - [Language Modeling](#language-modeling-lm)
@@ -18,13 +19,14 @@
         - [Text To Speech](#text-to-speech-tts)
         - [Speech Recognition](#speech-recognition-asr--stt)
       
-    
 ## Attention
 - [All you need to know about ‘Attention’ and ‘Transformers’ — In-depth Understanding — Part 1](https://towardsdatascience.com/all-you-need-to-know-about-attention-and-transformers-in-depth-understanding-part-1-552f0b41d021)
 ## Transformers
 - [A Gentle Introduction to Positional Encoding In Transformer Models, Part 1](https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/#:~:text=Transformers%20use%20a%20smart%20positional,summed%20with%20its%20positional%20information.)
 - [All you need to know about ‘Attention’ and ‘Transformers’ — In-depth Understanding — Part 2](https://towardsdatascience.com/all-you-need-to-know-about-attention-and-transformers-in-depth-understanding-part-2-bf2403804ada)
 - [A Survey of Transformers](../resources/A%20Survey%20of%20Transformers.pdf)
+## Corpus
+- [Lessons from building a Persian written corpus: Peykare](../resources/Bijankhan%20et%20al.%20-%202011%20-%20Lessons%20from%20building%20a%20Persian%20written%20corpus%20Pe.pdf)
 ## Language Modeling (LM)
 - [Chain of Thought Prompting Elicits Reasoning in Large Language Models](../resources/Chain%20of%20Thought%20Prompting%20Elicits%20Reasoning%20in%20Large%20Language%20Models.pdf)
 - [naab: A ready-to-use plug-and-play corpus for Farsi](../resources/naab%20A%20ready-to-use%20plug-and-play%20corpus%20for%20Farsi.pdf)
