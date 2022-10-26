@@ -9,6 +9,7 @@
       - [Attention](#attention)
       - [Transformers](#transformers)
     - [Natural Language Processing]()
+      - [Child language Acquisition](#child-language-acquisition)
       - [Text Processing]()
         - [Natural language Understanding]()
         - [Natural language Generation]()
@@ -25,4 +26,7 @@
 ## Transformers
 - [Ali Ghodsi, Lect 13 (Fall 2020): Deep learning, Transformer, BERT, GPT
 ](https://www.youtube.com/watch?v=APzuQoScLfc)
-      
+
+
+## Child language Acquisition
+- [How Does The Brain Develop Language? (S1EP5)](https://www.youtube.com/watch?v=wVTtIgUn4zE)
