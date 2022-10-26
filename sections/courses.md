@@ -18,7 +18,8 @@
       - [Speech Processing]()
         - [Text To Speech]()
         - [Speech Recognition]()
-
+  - [FrameWorks]()
+    - [PyTorch](#pytorch)
 ## Attention 
 - [Ali Ghodsi, Lect 10 (Fall 2020): Deep learning, Attention mechanism
 ](https://www.youtube.com/watch?v=WFcH7kRNEBc&list=PLehuLRPyt1Hwqk1BopyiREdPfJng2cuNQ&index=7)
@@ -30,3 +31,6 @@
 
 ## Child language Acquisition
 - [How Does The Brain Develop Language? (S1EP5)](https://www.youtube.com/watch?v=wVTtIgUn4zE)
+
+## PyTorch
+- [Learn PyTorch for deep learning in a day. Literally.](https://www.youtube.com/watch?v=Z_ikDlimN6A)
