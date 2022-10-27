@@ -39,7 +39,8 @@
 ## Paraphrase Generation
 - [ParaSCI: A Large Scientific Paraphrase Dataset for Longer Paraphrase Generation](../resources/ParaSCI%20A%20Large%20Scientific%20Paraphrase%20Dataset%20for%20Longer%20Paraphrase%20Generation.pdf)
 - [ExaPPC: a Large-Scale Persian Paraphrase Detection Corpus](../resources/ExaPPC%20a%20Large-Scale%20Persian%20Paraphrase%20Detection.pdf)
-- [Paraphrase Generation: A Survey of the State of the Art]()
-
+- [Paraphrase Generation: A Survey of the State of the Art](../resources/Paraphrase%20Generation%20A%20Survey%20of%20the%20State%20of%20the%20Art.pdf)
+- [Joint Copying and Restricted Generation for Paraphrase](../resources/Joint%20Copying%20and%20Restricted%20Generation%20for%20Paraphrase.pdf)
+- [Paraphrasing with Large Language Models](../resources/Paraphrasing%20with%20Large%20Language%20Models.pdf)
 ## Natural Language Understanding
 - [PARSINLU: A Suite of Language Understanding Challenges for Persian](../resources/PARSINLU%20A%20Suite%20of%20Language%20Understanding%20Challenges%20for%20Persian.pdf)
