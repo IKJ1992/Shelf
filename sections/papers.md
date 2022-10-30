@@ -17,6 +17,7 @@
           - [Paraphrase Generation](#paraphrase-generation)
       - [Speech Processing]()
         - [Text To Speech](#text-to-speech-tts)
+          - [Grapheme To Phoneme](#grapheme-to-phoneme-g2p)
         - [Speech Recognition](#speech-recognition-asr--stt)
       
 ## Attention
@@ -35,6 +36,8 @@
 ## Text To Speech (TTS)
 - [طراحی و ضبط پایگاه دادگان گفتاری برای سیستم های تبدیل متن به گفتار فارسی](../resources/%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C%20%D9%88%20%D8%B6%D8%A8%D8%B7%20%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87%20%D8%AF%D8%A7%D8%AF%DA%AF%D8%A7%D9%86%20%DA%AF%D9%81%D8%AA%D8%A7%D8%B1%DB%8C%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%B3%DB%8C%D8%B3%D8%AA%D9%85%20%D9%87%D8%A7%DB%8C%20%D8%AA%D8%A8%D8%AF%DB%8C%D9%84%20%D9%85%D8%AA%D9%86%20%D8%A8%D9%87%20%DA%AF%D9%81%D8%AA%D8%A7%D8%B1%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C.pdf)
 
+## Grapheme To Phoneme (G2P)
+- [Multi-Module G2P Converter for Persian Focusing on Relations between Words](../resources/Multi-Module%20G2P%20Converter%20for%20Persian%20Focusing%20on%20Relations.pdf)
 ## Speech Recognition (ASR | STT)
 - [Whisper Robust Speech Recognition via Large-Scale Weak Supervision](../resources/Whisper%20Robust%20Speech%20Recognition%20via%20Large-Scale%20Weak%20Supervision.pdf)
 
