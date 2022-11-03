@@ -35,6 +35,7 @@
 ## Language Modeling (LM)
 - [Chain of Thought Prompting Elicits Reasoning in Large Language Models](../resources/Chain%20of%20Thought%20Prompting%20Elicits%20Reasoning%20in%20Large%20Language%20Models.pdf)
 - [naab: A ready-to-use plug-and-play corpus for Farsi](../resources/naab%20A%20ready-to-use%20plug-and-play%20corpus%20for%20Farsi.pdf)
+- [Diffusion-LM Improves Controllable Text Generation](../resources/Diffusion-LM%20Improves%20Controllable%20Text%20Generation.pdf)
 ## Text To Speech (TTS)
 - [طراحی و ضبط پایگاه دادگان گفتاری برای سیستم های تبدیل متن به گفتار فارسی](../resources/%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C%20%D9%88%20%D8%B6%D8%A8%D8%B7%20%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87%20%D8%AF%D8%A7%D8%AF%DA%AF%D8%A7%D9%86%20%DA%AF%D9%81%D8%AA%D8%A7%D8%B1%DB%8C%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%B3%DB%8C%D8%B3%D8%AA%D9%85%20%D9%87%D8%A7%DB%8C%20%D8%AA%D8%A8%D8%AF%DB%8C%D9%84%20%D9%85%D8%AA%D9%86%20%D8%A8%D9%87%20%DA%AF%D9%81%D8%AA%D8%A7%D8%B1%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C.pdf)
 
