@@ -8,6 +8,7 @@
     - [Deep Neural Networks]()
       - [Attention](#attention)
       - [Transformers](#transformers)
+      - [Diffusion Models](#diffusion-models)
     - [Natural Language Processing]()
       - [Text Processing]()
         - [Corpus]()
@@ -53,3 +54,6 @@
 
 ## Speech Representation
 - [AST Audio Spectrogram Transformer](../resources/AST%20Audio%20Spectrogram%20Transformer.pdf)
+
+## Diffusion Models
+- [Denoising Diffusion Probabilistic Models](../resources/Denoising%20Diffusion%20Probabilistic%20Models.pdf)
