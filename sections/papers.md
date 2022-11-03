@@ -50,6 +50,7 @@
 - [Paraphrase Generation: A Survey of the State of the Art](../resources/Paraphrase%20Generation%20A%20Survey%20of%20the%20State%20of%20the%20Art.pdf)
 - [Joint Copying and Restricted Generation for Paraphrase](../resources/Joint%20Copying%20and%20Restricted%20Generation%20for%20Paraphrase.pdf)
 - [Paraphrasing with Large Language Models](../resources/Paraphrasing%20with%20Large%20Language%20Models.pdf)
+- [Unsupervised Paraphrase Generation using Pre-trained Language Models](../resources/Unsupervised%20Paraphrase%20Generation%20using%20Pre-trained%20Language%20Models.pdf)
 ## Natural Language Understanding
 - [PARSINLU: A Suite of Language Understanding Challenges for Persian](../resources/PARSINLU%20A%20Suite%20of%20Language%20Understanding%20Challenges%20for%20Persian.pdf)
 
