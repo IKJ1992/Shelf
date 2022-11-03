@@ -19,6 +19,7 @@
         - [Text To Speech](#text-to-speech-tts)
           - [Grapheme To Phoneme](#grapheme-to-phoneme-g2p)
         - [Speech Recognition](#speech-recognition-asr--stt)
+        - [Speech Representation](#speech-representation)
       
 ## Attention
 - [All you need to know about ‘Attention’ and ‘Transformers’ — In-depth Understanding — Part 1](https://towardsdatascience.com/all-you-need-to-know-about-attention-and-transformers-in-depth-understanding-part-1-552f0b41d021)
@@ -49,3 +50,6 @@
 - [Paraphrasing with Large Language Models](../resources/Paraphrasing%20with%20Large%20Language%20Models.pdf)
 ## Natural Language Understanding
 - [PARSINLU: A Suite of Language Understanding Challenges for Persian](../resources/PARSINLU%20A%20Suite%20of%20Language%20Understanding%20Challenges%20for%20Persian.pdf)
+
+## Speech Representation
+- [AST Audio Spectrogram Transformer](../resources/AST%20Audio%20Spectrogram%20Transformer.pdf)
