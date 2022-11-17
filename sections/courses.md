@@ -8,6 +8,7 @@
     - [Deep Neural Networks]()
       - [Attention](#attention)
       - [Transformers](#transformers)
+      - [Diffusion Models](#diffusion-models)
     - [Natural Language Processing]()
       - [Child language Acquisition](#child-language-acquisition)
       - [Text Processing]()
@@ -34,3 +35,6 @@
 
 ## PyTorch
 - [Learn PyTorch for deep learning in a day. Literally.](https://www.youtube.com/watch?v=Z_ikDlimN6A)
+
+## Diffusion Models
+- [Fast.ai: 1st Two Lessons of From Deep Learning Foundations to Stable Diffusion](https://www.fast.ai/posts/part2-2022-preview.html)

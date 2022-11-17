@@ -60,3 +60,4 @@
 
 ## Diffusion Models
 - [Denoising Diffusion Probabilistic Models](../resources/Denoising%20Diffusion%20Probabilistic%20Models.pdf)
+- [Generative Modeling by Estimating Gradients of the Data Distribution](https://yang-song.net/blog/2021/score/)
