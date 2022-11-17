@@ -21,6 +21,7 @@
           - [Grapheme To Phoneme](#grapheme-to-phoneme-g2p)
         - [Speech Recognition](#speech-recognition-asr--stt)
         - [Speech Representation](#speech-representation)
+- [Research](#research)
       
 ## Attention
 - [All you need to know about ‘Attention’ and ‘Transformers’ — In-depth Understanding — Part 1](https://towardsdatascience.com/all-you-need-to-know-about-attention-and-transformers-in-depth-understanding-part-1-552f0b41d021)
@@ -64,3 +65,6 @@
 ## Diffusion Models
 - [Denoising Diffusion Probabilistic Models](../resources/Denoising%20Diffusion%20Probabilistic%20Models.pdf)
 - [Generative Modeling by Estimating Gradients of the Data Distribution](https://yang-song.net/blog/2021/score/)
+
+## Research
+- [Strategies for writing a research paper](../resources/Strategies%20for%20writing%20a%20research%20paper.pdf)
