@@ -5,14 +5,13 @@
 # Shelf | a Wide and Open Shelf for AI and Data Science
 Shelf is an open knowledge base for artificial intelligence and data science. There are items on Shelf that have been selected and evaluated by experts. We grow Shelf together gradually. Shelf has the following types of items:
 ## Contents
-- [Tools](sections/tools.md)
-- [Models](sections/models.md)
-- [Repositories](sections/repos.md)
-- [Datasets](sections/datasets.md)
 - [Papers](sections/papers.md)
 - [Books](sections/books.md)
-- [Projects](sections/projects.md)
 - [Courses](sections/courses.md)
+- [Projects](sections/projects.md)
+- [Models](sections/models.md)
+- [Datasets](sections/datasets.md)
+
 
 
 ## Contributing
