@@ -43,6 +43,7 @@
 - [Multi-Module G2P Converter for Persian Focusing on Relations between Words](../resources/Multi-Module%20G2P%20Converter%20for%20Persian%20Focusing%20on%20Relations.pdf)
 ## Speech Recognition (ASR | STT)
 - [Whisper Robust Speech Recognition via Large-Scale Weak Supervision](../resources/Whisper%20Robust%20Speech%20Recognition%20via%20Large-Scale%20Weak%20Supervision.pdf)
+- [Massively Multilingual ASR on 70 Languages Tokenization, Architecture, and Generalization Capabilities](../resources/Massively%20Multilingual%20ASR%20on%2070%20Languages%20Tokenization%2C%20Architecture%2C%20and%20Generalization%20Capabilities.pdf)
 
 ## Paraphrase Generation
 - [ParaSCI: A Large Scientific Paraphrase Dataset for Longer Paraphrase Generation](../resources/ParaSCI%20A%20Large%20Scientific%20Paraphrase%20Dataset%20for%20Longer%20Paraphrase%20Generation.pdf)
