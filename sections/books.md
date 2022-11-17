@@ -20,4 +20,5 @@
 - [Mastering Transformers Build state-of-the-art models from scratch with advanced natural language processing techniques](../resources/Mastering%20Transformers%20Build%20state-of-the-art%20models%20from%20scratch%20with%20advanced%20natural%20language%20processing%20techniques.pdf)
 
 ## Machine Learning Design
-- [Designing Machine Learning Systems An Iterative Process for Production-Ready Applications](/resources/Designing%20Machine%20Learning%20Systems%20An%20Iterative%20Process%20for%20Production-Ready%20Applications.pdf)
+- [Designing Machine Learning Systems An Iterative Process for Production-Ready Applications](../resources/Designing%20Machine%20Learning%20Systems%20An%20Iterative%20Process%20for%20Production-Ready%20Applications.pdf)
+- [Building Machine Learning Powered Applications Going from Idea to Product](../resources/Building%20Machine%20Learning%20Powered%20Applications%20Going%20from%20Idea%20to%20Product.pdf)
