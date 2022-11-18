@@ -3,4 +3,4 @@
 # Shelf.Projects
 There are a lot of great projects, repositories, tools, and all kinds of practical stuff here:
 
-1- [Lexica Art](https://lexica.art/)
+1- [Lexica Art: The Stable Diffusion search engine](https://lexica.art/)
