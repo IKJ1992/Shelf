@@ -1,7 +1,7 @@
 <img src="https://github.com/IKJ1992/Shelf/blob/master/images/logo.PNG" width="35%" height="35%" align="right" />
 
 # Shelf.Papers 
-
+papers, blog posts, powerpoints, and lecture notes are listed below:
 ## Table Of Contents
 - [Artificial Intelligence]()
   - [Machine Learning and Deep Learning]()
@@ -65,6 +65,7 @@
 ## Diffusion Models
 - [Denoising Diffusion Probabilistic Models](../resources/Denoising%20Diffusion%20Probabilistic%20Models.pdf)
 - [Generative Modeling by Estimating Gradients of the Data Distribution](https://yang-song.net/blog/2021/score/)
+- Story of Diffusion Models [pptx](../resources/Story%20of%20Diffusion%20Models.pptx) [pdf]()
 
 ## Research
 - [Strategies for writing a research paper](../resources/Strategies%20for%20writing%20a%20research%20paper.pdf)
