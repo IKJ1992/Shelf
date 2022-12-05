@@ -21,8 +21,12 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
           - [Grapheme To Phoneme](#grapheme-to-phoneme-g2p)
         - [Speech Recognition](#speech-recognition-asr--stt)
         - [Speech Representation](#speech-representation)
+        - [Speech Generation](#speech-generation)
+      - [Neuroscience]
+        - [language](#language)
 - [Research](#research)
-      
+- [Data Science](#data-science)
+  - [interview](#interview)
 ## Attention
 - [All you need to know about ‘Attention’ and ‘Transformers’ — In-depth Understanding — Part 1](https://towardsdatascience.com/all-you-need-to-know-about-attention-and-transformers-in-depth-understanding-part-1-552f0b41d021)
 ## Transformers
@@ -40,13 +44,13 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
 - [Dont Stop Pretraining Adapt Language Models to Domains and Tasks](../resources/Dont%20Stop%20Pretraining%20Adapt%20Language%20Models%20to%20Domains%20and%20Tasks.pdf)
 ## Text To Speech (TTS)
 - [طراحی و ضبط پایگاه دادگان گفتاری برای سیستم های تبدیل متن به گفتار فارسی](../resources/%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C%20%D9%88%20%D8%B6%D8%A8%D8%B7%20%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87%20%D8%AF%D8%A7%D8%AF%DA%AF%D8%A7%D9%86%20%DA%AF%D9%81%D8%AA%D8%A7%D8%B1%DB%8C%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%B3%DB%8C%D8%B3%D8%AA%D9%85%20%D9%87%D8%A7%DB%8C%20%D8%AA%D8%A8%D8%AF%DB%8C%D9%84%20%D9%85%D8%AA%D9%86%20%D8%A8%D9%87%20%DA%AF%D9%81%D8%AA%D8%A7%D8%B1%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C.pdf)
-
+-[Guided-TTS A Diffusion Model for Text-to-Speech via Classifier Guidance](../resources/Guided-TTS%20A%20Diffusion%20Model%20for%20Text-to-Speech%20via%20Classifier%20Guidance.pdf)
 ## Grapheme To Phoneme (G2P)
 - [Multi-Module G2P Converter for Persian Focusing on Relations between Words](../resources/Multi-Module%20G2P%20Converter%20for%20Persian%20Focusing%20on%20Relations.pdf)
 ## Speech Recognition (ASR | STT)
 - [Whisper Robust Speech Recognition via Large-Scale Weak Supervision](../resources/Whisper%20Robust%20Speech%20Recognition%20via%20Large-Scale%20Weak%20Supervision.pdf)
 - [Massively Multilingual ASR on 70 Languages Tokenization, Architecture, and Generalization Capabilities](../resources/Massively%20Multilingual%20ASR%20on%2070%20Languages%20Tokenization%2C%20Architecture%2C%20and%20Generalization%20Capabilities.pdf)
-
+- [TransFusion Transcribing Speech with Multinomial Diffusion](../resources/TransFusion%20Transcribing%20Speech%20with%20Multinomial%20Diffusion.pdf)
 ## Paraphrase Generation
 - [ParaSCI: A Large Scientific Paraphrase Dataset for Longer Paraphrase Generation](../resources/ParaSCI%20A%20Large%20Scientific%20Paraphrase%20Dataset%20for%20Longer%20Paraphrase%20Generation.pdf)
 - [ExaPPC: a Large-Scale Persian Paraphrase Detection Corpus](../resources/ExaPPC%20a%20Large-Scale%20Persian%20Paraphrase%20Detection.pdf)
@@ -62,10 +66,21 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
 ## Speech Representation
 - [AST Audio Spectrogram Transformer](../resources/AST%20Audio%20Spectrogram%20Transformer.pdf)
 
+## Speech Generation
+- [Towards Efficient Diffusion-Based Speech Generation on CPU](../resources/Towards%20Efficient%20Diffusion-Based%20Speech%20Generation%20on%20CPU.pdf)
 ## Diffusion Models
 - [Denoising Diffusion Probabilistic Models](../resources/Denoising%20Diffusion%20Probabilistic%20Models.pdf)
 - [Generative Modeling by Estimating Gradients of the Data Distribution](https://yang-song.net/blog/2021/score/)
 - Story of Diffusion Models [pptx](../resources/Story%20of%20Diffusion%20Models.pptx) [pdf]()
-
+- [DiffuSeq Sequence to Sequence Text Generation with Diffusion Models](../resources/DiffuSeq%20Sequence%20to%20Sequence%20Text%20Generation%20with%20Diffusion%20Models.pdf)
+-[Guided-TTS A Diffusion Model for Text-to-Speech via Classifier Guidance](../resources/Guided-TTS%20A%20Diffusion%20Model%20for%20Text-to-Speech%20via%20Classifier%20Guidance.pdf)
+-[Imagic Text-Based Real Image Editing with Diffusion Models](../resources/Imagic%20Text-Based%20Real%20Image%20Editing%20with%20Diffusion%20Models.pdf)
+- [TransFusion Transcribing Speech with Multinomial Diffusion](../resources/TransFusion%20Transcribing%20Speech%20with%20Multinomial%20Diffusion.pdf)
 ## Research
 - [Strategies for writing a research paper](../resources/Strategies%20for%20writing%20a%20research%20paper.pdf)
+
+## Interview
+- [Data Science Interview Questions and Answers](../resources/Data%20Science%20Interview%20Questions%20and%20Answers.pdf)
+
+## language
+[The Brain Basis of Language Processing From Structure to Function](../resources/The%20Brain%20Basis%20of%20Language%20Processing%20From%20Structure%20to%20Function.pdf)
