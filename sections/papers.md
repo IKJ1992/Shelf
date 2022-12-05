@@ -22,7 +22,7 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
         - [Speech Recognition](#speech-recognition-asr--stt)
         - [Speech Representation](#speech-representation)
         - [Speech Generation](#speech-generation)
-      - [Neuroscience]
+      - [Neuroscience](#neuroscience)
         - [language](#language)
 - [Research](#research)
 - [Data Science](#data-science)
