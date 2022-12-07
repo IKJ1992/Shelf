@@ -15,4 +15,4 @@ Shelf is an open knowledge base for artificial intelligence and data science. Th
 
 
 ## Contributing
-> coming soon!
+> coming soon :)
