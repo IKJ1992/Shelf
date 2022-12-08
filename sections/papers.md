@@ -26,7 +26,8 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
         - [language](#language)
 - [Research](#research)
 - [Data Science](#data-science)
-  - [interview](#interview)
+  - [Interview](#interview)
+  - [Project Management](#project-management)
 ## Attention
 - [All you need to know about ‘Attention’ and ‘Transformers’ — In-depth Understanding — Part 1](https://towardsdatascience.com/all-you-need-to-know-about-attention-and-transformers-in-depth-understanding-part-1-552f0b41d021)
 ## Transformers
@@ -84,4 +85,8 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
 - [Data Science Interview Questions and Answers](../resources/Data%20Science%20Interview%20Questions%20and%20Answers.pdf)
 
 ## language
-[The Brain Basis of Language Processing From Structure to Function](../resources/The%20Brain%20Basis%20of%20Language%20Processing%20From%20Structure%20to%20Function.pdf)
+- [The Brain Basis of Language Processing From Structure to Function](../resources/The%20Brain%20Basis%20of%20Language%20Processing%20From%20Structure%20to%20Function.pdf)
+
+## Project Management
+- [Data Science Project Management (The New Guide For ML Teams)](https://neptune.ai/blog/data-science-project-management)
+
