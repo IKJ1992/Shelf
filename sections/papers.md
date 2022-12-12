@@ -35,7 +35,7 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
 - [All you need to know about ‘Attention’ and ‘Transformers’ — In-depth Understanding — Part 2](https://towardsdatascience.com/all-you-need-to-know-about-attention-and-transformers-in-depth-understanding-part-2-bf2403804ada)
 - [A Survey of Transformers](../resources/A%20Survey%20of%20Transformers.pdf)
 - [Syntactic Knowledge-Infused Transformer and BERT models](../resources/Syntactic%20Knowledge-Infused%20Transformer%20and%20BERT.pdf)
-
+- [The Illustrated Retrieval Transformer](https://jalammar.github.io/illustrated-retrieval-transformer/)
 ## Corpus
 - [Lessons from building a Persian written corpus: Peykare](../resources/Bijankhan%20et%20al.%20-%202011%20-%20Lessons%20from%20building%20a%20Persian%20written%20corpus%20Pe.pdf)
 ## Language Modeling (LM)
