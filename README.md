@@ -15,4 +15,4 @@ Shelf is an open knowledge base for artificial intelligence and data science. Th
 
 
 ## Contributing
-Your contributions are welcome! Please read the [contribution guidelines](contributing.md) before contributing.
+Your contributions are welcome! Please read the [contribution guidelines](contributing.md) before contributing. Also you can send your document or relevant resources to my telegram account: `@IKJ1992` easily.
