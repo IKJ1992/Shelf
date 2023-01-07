@@ -47,6 +47,7 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
 ## Text To Speech (TTS)
 - [طراحی و ضبط پایگاه دادگان گفتاری برای سیستم های تبدیل متن به گفتار فارسی](../resources/%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C%20%D9%88%20%D8%B6%D8%A8%D8%B7%20%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87%20%D8%AF%D8%A7%D8%AF%DA%AF%D8%A7%D9%86%20%DA%AF%D9%81%D8%AA%D8%A7%D8%B1%DB%8C%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%B3%DB%8C%D8%B3%D8%AA%D9%85%20%D9%87%D8%A7%DB%8C%20%D8%AA%D8%A8%D8%AF%DB%8C%D9%84%20%D9%85%D8%AA%D9%86%20%D8%A8%D9%87%20%DA%AF%D9%81%D8%AA%D8%A7%D8%B1%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C.pdf)
 -[Guided-TTS A Diffusion Model for Text-to-Speech via Classifier Guidance](../resources/Guided-TTS%20A%20Diffusion%20Model%20for%20Text-to-Speech%20via%20Classifier%20Guidance.pdf)
+-[A Survey on Neural Speech Synthesis](../resources/A%20Survey%20on%20Neural%20Speech%20Synthesis.pdf)
 ## Grapheme To Phoneme (G2P)
 - [Multi-Module G2P Converter for Persian Focusing on Relations between Words](../resources/Multi-Module%20G2P%20Converter%20for%20Persian%20Focusing%20on%20Relations.pdf)
 ## Speech Recognition (ASR | STT)
