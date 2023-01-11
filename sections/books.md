@@ -11,6 +11,7 @@
         - [Text To Speech](#text-to-speech-tts)
     - [Machine Learning Design](#machine-learning-design)
 - [Big Data](#big-data)
+- [Career in AI and DS](#career-in-ai-ds)
       
     
 ## Text To Speech (TTS)
@@ -30,3 +31,6 @@
 - [Effective Data Science Infrastructure](../resources/Effective%20Data%20Science%20Infrastructure.pdf)
 - [Designing Data-Intensive Applications The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](../resources/Designing%20Data-Intensive%20Applications%20The%20Big%20Ideas%20Behind%20Reliable%2C%20Scalable%2C%20and%20Maintainable%20Systems.pdf)
 - [Fundamentals of Data Engineering Plan and Build Robust Data Systems](../resources/Fundamentals%20of%20Data%20Engineering%20Plan%20and%20Build%20Robust%20Data%20Systems.pdf)
+
+## Career in AI and DS
+- [How to Build Your Career in AI](../resources/How%20to%20Build%20Your%20Career%20in%20AI.pdf)
