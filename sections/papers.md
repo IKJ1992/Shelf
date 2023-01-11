@@ -18,6 +18,7 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
           - [Language Modeling](#language-modeling-lm)
           - [Paraphrase Generation](#paraphrase-generation)
         - [Information Retrieval](#information-retrieval)
+        - [Sequence to Sequence Models](#sequence_to_sequence_models)
       - [Speech Processing]()
         - [Text To Speech](#text-to-speech-tts)
           - [Grapheme To Phoneme](#grapheme-to-phoneme-g2p)
@@ -40,6 +41,9 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
 - [The Illustrated Retrieval Transformer](https://jalammar.github.io/illustrated-retrieval-transformer/)
 # Information Retrieval
 - [Autoregressive Search Engines Generating Substrings as Document Identifiers](../resources/Autoregressive%20Search%20Engines%20Generating%20Substrings%20as%20Document%20Identifiers.pdf)
+
+# Sequence to Sequence Models
+- [BART Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](../resources/BART%20Denoising%20Sequence-to-Sequence%20Pre-training%20for%20Natural%20Language%20Generation%2C%20Translation%2C%20and%20Comprehension.pdf)
 ## Corpus
 - [Lessons from building a Persian written corpus: Peykare](../resources/Bijankhan%20et%20al.%20-%202011%20-%20Lessons%20from%20building%20a%20Persian%20written%20corpus%20Pe.pdf)
 ## Language Modeling (LM)
