@@ -17,6 +17,7 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
         - [Natural language Generation]()
           - [Language Modeling](#language-modeling-lm)
           - [Paraphrase Generation](#paraphrase-generation)
+        - [Information Retrieval](#information-retrieval)
       - [Speech Processing]()
         - [Text To Speech](#text-to-speech-tts)
           - [Grapheme To Phoneme](#grapheme-to-phoneme-g2p)
@@ -37,6 +38,8 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
 - [A Survey of Transformers](../resources/A%20Survey%20of%20Transformers.pdf)
 - [Syntactic Knowledge-Infused Transformer and BERT models](../resources/Syntactic%20Knowledge-Infused%20Transformer%20and%20BERT.pdf)
 - [The Illustrated Retrieval Transformer](https://jalammar.github.io/illustrated-retrieval-transformer/)
+# Information Retrieval
+- [Autoregressive Search Engines Generating Substrings as Document Identifiers](../resources/Autoregressive%20Search%20Engines%20Generating%20Substrings%20as%20Document%20Identifiers.pdf)
 ## Corpus
 - [Lessons from building a Persian written corpus: Peykare](../resources/Bijankhan%20et%20al.%20-%202011%20-%20Lessons%20from%20building%20a%20Persian%20written%20corpus%20Pe.pdf)
 ## Language Modeling (LM)
@@ -47,6 +50,8 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
 - [From English to Foreign Languages Transferring Pretrained Language Models](https://arxiv.org/pdf/2002.07306.pdf)
 - [The Illustrated GPT-2 (Visualizing Transformer Language Models)](http://jalammar.github.io/illustrated-gpt2/)
 - [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate)
+
+- [So retrieval is what we needed?](https://towardsai.net/p/l/so-retrieval-is-what-we-needed)
 ## Text To Speech (TTS)
 - [طراحی و ضبط پایگاه دادگان گفتاری برای سیستم های تبدیل متن به گفتار فارسی](../resources/%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C%20%D9%88%20%D8%B6%D8%A8%D8%B7%20%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87%20%D8%AF%D8%A7%D8%AF%DA%AF%D8%A7%D9%86%20%DA%AF%D9%81%D8%AA%D8%A7%D8%B1%DB%8C%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%B3%DB%8C%D8%B3%D8%AA%D9%85%20%D9%87%D8%A7%DB%8C%20%D8%AA%D8%A8%D8%AF%DB%8C%D9%84%20%D9%85%D8%AA%D9%86%20%D8%A8%D9%87%20%DA%AF%D9%81%D8%AA%D8%A7%D8%B1%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C.pdf)
 -[Guided-TTS A Diffusion Model for Text-to-Speech via Classifier Guidance](../resources/Guided-TTS%20A%20Diffusion%20Model%20for%20Text-to-Speech%20via%20Classifier%20Guidance.pdf)
