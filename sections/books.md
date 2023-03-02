@@ -55,3 +55,4 @@
 
 - [Lean AI How Innovative Startups Use Artificial Intelligence to Grow](../resources/Lean%20AI%20How%20Innovative%20Startups%20Use%20Artificial%20Intelligence%20to%20Grow.epub)
 
+- [Swipe to Unlock The Primer on Technology and Business Strategy](../resources/Swipe%20to%20Unlock%20The%20Primer%20on%20Technology%20and%20Business%20Strategy.pdf)
