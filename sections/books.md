@@ -28,6 +28,9 @@
 - [Designing Machine Learning Systems An Iterative Process for Production-Ready Applications](../resources/Designing%20Machine%20Learning%20Systems%20An%20Iterative%20Process%20for%20Production-Ready%20Applications.pdf)
 - [Building Machine Learning Powered Applications Going from Idea to Product](../resources/Building%20Machine%20Learning%20Powered%20Applications%20Going%20from%20Idea%20to%20Product.pdf)
 
+- [Machine Learning Design Patterns Solutions to Common Challenges in Data Preparation, Model Building, and MLOps](../resources/Machine%20Learning%20Design%20Patterns%20Solutions%20to%20Common%20Challenges%20in%20Data%20Preparation%2C%20Model%20Building%2C%20and%20MLOps.pdf)
+
+
 
 ## Big Data
 - [Mining of Massive Datasets](../resources/Mining%20of%20Massive%20Datasets.pdf)
