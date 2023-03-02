@@ -5,7 +5,10 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
 ## Table Of Contents
 - [Python]()
   - [visualization](#visualization)
+- [Database](#database)
 
 
 ## Visualization
-- 
+
+## Database
+-[SQL cheatsheet](../resources/SQL%20cheatsheet.pdf)
