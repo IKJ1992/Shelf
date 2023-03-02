@@ -57,6 +57,8 @@
 
 - [Think Python How to Think Like a Computer Scientist](../resources/Think%20Python%20How%20to%20Think%20Like%20a%20Computer%20Scientist.pdf)
 
+- [آموزش گیت](../resources/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%DA%AF%DB%8C%D8%AA.pdf)
+
 ## AI-based Product Management
 
 - [Lean AI How Innovative Startups Use Artificial Intelligence to Grow](../resources/Lean%20AI%20How%20Innovative%20Startups%20Use%20Artificial%20Intelligence%20to%20Grow.epub)
