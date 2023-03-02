@@ -14,6 +14,7 @@
 - [Big Data](#big-data)
 - [Career in AI and DS](#career-in-ai-ds)
 - [Programming](#programming)
+- [AI-based Product Management](#ai-based-product-management)
       
     
 ## Text To Speech (TTS)
@@ -44,3 +45,8 @@
 ## programming
 
 - [Introduction to Algorithms](../resources/Introduction%20Data%20structure%20and%20solutions.pdf)
+
+## AI-based Product Management
+
+- [Lean AI How Innovative Startups Use Artificial Intelligence to Grow](../resources/Lean%20AI%20How%20Innovative%20Startups%20Use%20Artificial%20Intelligence%20to%20Grow.epub)
+
