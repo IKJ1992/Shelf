@@ -13,6 +13,7 @@
     - [Art and Generation](#art-and-generation)
 - [Big Data](#big-data)
 - [Career in AI and DS](#career-in-ai-ds)
+- [Programming](#programming)
       
     
 ## Text To Speech (TTS)
@@ -39,3 +40,7 @@
 ## Career in AI and DS
 
 - [How to Build Your Career in AI](../resources/How%20to%20Build%20Your%20Career%20in%20AI.pdf)
+
+## programming
+
+- [Introduction to Algorithms](../resources/Introduction%20Data%20structure%20and%20solutions.pdf)
