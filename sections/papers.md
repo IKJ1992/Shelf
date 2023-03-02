@@ -78,6 +78,8 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
 ## Natural Language Understanding
 - [PARSINLU: A Suite of Language Understanding Challenges for Persian](../resources/PARSINLU%20A%20Suite%20of%20Language%20Understanding%20Challenges%20for%20Persian.pdf)
 
+- [Leveraging External Knowledge in NLU systems](../resources/Leveraging%20External%20Knowledge%20in%20NLU%20systems.pdf)
+
 ## Speech Representation
 - [AST Audio Spectrogram Transformer](../resources/AST%20Audio%20Spectrogram%20Transformer.pdf)
 
