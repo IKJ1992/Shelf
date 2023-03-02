@@ -58,3 +58,5 @@
 - [Swipe to Unlock The Primer on Technology and Business Strategy](../resources/Swipe%20to%20Unlock%20The%20Primer%20on%20Technology%20and%20Business%20Strategy.pdf)
 
 - [The Lean Product Playbook](../resources/The%20Lean%20Product%20Playbook.pdf)
+
+-[کتابچه نگارش استراتژی محصول](../resources/%DA%A9%D8%AA%D8%A7%D8%A8%DA%86%D9%87%20%D9%86%DA%AF%D8%A7%D8%B1%D8%B4%20%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%DA%98%DB%8C%20%D9%85%D8%AD%D8%B5%D9%88%D9%84.pdf)
