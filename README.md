@@ -12,7 +12,7 @@ Shelf is an open knowledge base for artificial intelligence and data science. Th
 - [Models](sections/models.md)
 - [Datasets](sections/datasets.md)
 - [Follow it](sections/followit.md)
-- [Cheat Sheet](sections/cheatsheet.md)
+- [Cheat Sheets](sections/cheatsheet.md)
 
 
 ## Contributing
