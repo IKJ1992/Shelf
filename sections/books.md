@@ -10,6 +10,7 @@
       - [Speech Processing]()
         - [Text To Speech](#text-to-speech-tts)
     - [Machine Learning Design](#machine-learning-design)
+    - [Art and Generation](#art-and-generation)
 - [Big Data](#big-data)
 - [Career in AI and DS](#career-in-ai-ds)
       
@@ -32,5 +33,9 @@
 - [Designing Data-Intensive Applications The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](../resources/Designing%20Data-Intensive%20Applications%20The%20Big%20Ideas%20Behind%20Reliable%2C%20Scalable%2C%20and%20Maintainable%20Systems.pdf)
 - [Fundamentals of Data Engineering Plan and Build Robust Data Systems](../resources/Fundamentals%20of%20Data%20Engineering%20Plan%20and%20Build%20Robust%20Data%20Systems.pdf)
 
+# Art and Generation
+
+- [Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play](../resources/Generative%20Deep%20Learning%20Teaching%20Machines%20to%20Paint%2C%20Write%2C%20Compose%2C%20and%20Play.pdf)
 ## Career in AI and DS
+
 - [How to Build Your Career in AI](../resources/How%20to%20Build%20Your%20Career%20in%20AI.pdf)
