@@ -56,6 +56,7 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
 - [How to generate text: using different decoding methods for language generation with Transformers](https://huggingface.co/blog/how-to-generate)
 
 - [So retrieval is what we needed?](https://towardsai.net/p/l/so-retrieval-is-what-we-needed)
+- [Improving language models by retrieving from trillions of tokens](../resources/Improving%20language%20models%20by%20retrieving%20from%20trillions%20of%20tokens.pdf)
 ## Text To Speech (TTS)
 - [طراحی و ضبط پایگاه دادگان گفتاری برای سیستم های تبدیل متن به گفتار فارسی](../resources/%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C%20%D9%88%20%D8%B6%D8%A8%D8%B7%20%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87%20%D8%AF%D8%A7%D8%AF%DA%AF%D8%A7%D9%86%20%DA%AF%D9%81%D8%AA%D8%A7%D8%B1%DB%8C%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%B3%DB%8C%D8%B3%D8%AA%D9%85%20%D9%87%D8%A7%DB%8C%20%D8%AA%D8%A8%D8%AF%DB%8C%D9%84%20%D9%85%D8%AA%D9%86%20%D8%A8%D9%87%20%DA%AF%D9%81%D8%AA%D8%A7%D8%B1%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C.pdf)
 -[Guided-TTS A Diffusion Model for Text-to-Speech via Classifier Guidance](../resources/Guided-TTS%20A%20Diffusion%20Model%20for%20Text-to-Speech%20via%20Classifier%20Guidance.pdf)
