@@ -11,3 +11,8 @@ This is a list of blogs, persons, courses which you may want to check:
 
 - https://neptune.ai/blog : You'll find here articles about applied machine learning, experiment tracking, model registry, and team collaboration. It's a space for practitioners to share their knowledge, experience, and best practices with the community.
 
+- https://vaclavkosar.com/ : Learn about machine learning and software engineering, investing, and business.
+
+- https://machinelearningmastery.com/ : These are the Step-by-Step Guides For Making Developer Awesome At Machine Learning
+
+
