@@ -8,3 +8,5 @@ There are a lot of great projects, repositories, tools, and all kinds of practic
 2- [PromptHero: Search millions of art images by AI models like DALL-E, Stable Diffusion, Midjourney](https://prompthero.com/)
 
 3- [SINE: SINgle Image Editing with Text-to-Image Diffusion Models](https://zhang-zx.github.io/SINE/)
+
+4- [Beatoven.ai: Create customisable royalty free music that elevates your story](https://www.beatoven.ai/)
