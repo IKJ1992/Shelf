@@ -51,6 +51,7 @@
 
 - [How to Build Your Career in AI](../resources/How%20to%20Build%20Your%20Career%20in%20AI.pdf)
 
+- [ایزو 9001 چیست](../resources/%D8%A7%DB%8C%D8%B2%D9%88%209001%20%DA%86%DB%8C%D8%B3%D8%AA.pdf)
 ## programming
 
 - [Introduction to Algorithms](../resources/Introduction%20Data%20structure%20and%20solutions.pdf)
