@@ -10,3 +10,5 @@ There are a lot of great projects, repositories, tools, and all kinds of practic
 3- [SINE: SINgle Image Editing with Text-to-Image Diffusion Models](https://zhang-zx.github.io/SINE/)
 
 4- [Beatoven.ai: Create customisable royalty free music that elevates your story](https://www.beatoven.ai/)
+
+5- [Perplexuty: Ask anything!](https://www.perplexity.ai/)
