@@ -31,6 +31,10 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
 - [Data Science](#data-science)
   - [Interview](#interview)
   - [Project Management](#project-management)
+
+## Machine Learning and Deep Learning
+
+- [Math essentials for ML](../resources/mathofmachinelearning.pdf)
 ## Attention
 - [All you need to know about ‘Attention’ and ‘Transformers’ — In-depth Understanding — Part 1](https://towardsdatascience.com/all-you-need-to-know-about-attention-and-transformers-in-depth-understanding-part-1-552f0b41d021)
 ## Transformers
