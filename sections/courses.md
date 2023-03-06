@@ -21,6 +21,8 @@
         - [Speech Recognition]()
     - [FrameWorks]()
       - [PyTorch](#pytorch)
+- [Computer Science](#computer-science)
+
 ## Attention 
 - [Ali Ghodsi, Lect 10 (Fall 2020): Deep learning, Attention mechanism
 ](https://www.youtube.com/watch?v=WFcH7kRNEBc&list=PLehuLRPyt1Hwqk1BopyiREdPfJng2cuNQ&index=7)
@@ -39,3 +41,6 @@
 ## Diffusion Models
 - [Fast.ai: 1st Two Lessons of From Deep Learning Foundations to Stable Diffusion](https://www.fast.ai/posts/part2-2022-preview.html)
 - [What are Diffusion Models?](https://youtu.be/fbLgFrlTnGU)
+
+## Computer Science
+- [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
