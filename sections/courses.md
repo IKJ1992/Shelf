@@ -5,7 +5,7 @@
 ## Table Of Contents
 - [Artificial Intelligence]()
   - [Machine Learning and Deep Learning]()
-    - [Deep Neural Networks]()
+    - [Deep Neural Networks](#deep-neural-networks)
       - [Attention](#attention)
       - [Transformers](#transformers)
       - [Diffusion Models](#diffusion-models)
@@ -23,6 +23,9 @@
       - [PyTorch](#pytorch)
 - [Computer Science](#computer-science)
 
+## Deep Neural Networks
+
+- [Lectures for INFO8010 - Deep Learning, ULiège, Spring 2023](https://github.com/glouppe/info8010-deep-learning)
 ## Attention 
 - [Ali Ghodsi, Lect 10 (Fall 2020): Deep learning, Attention mechanism
 ](https://www.youtube.com/watch?v=WFcH7kRNEBc&list=PLehuLRPyt1Hwqk1BopyiREdPfJng2cuNQ&index=7)
