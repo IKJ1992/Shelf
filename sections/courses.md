@@ -22,10 +22,13 @@
     - [FrameWorks]()
       - [PyTorch](#pytorch)
 - [Computer Science](#computer-science)
+- [Computational Neuroscience](#computational-neuroscience)
 
 ## Deep Neural Networks
 
 - [Lectures for INFO8010 - Deep Learning, ULiège, Spring 2023](https://github.com/glouppe/info8010-deep-learning)
+
+
 ## Attention 
 - [Ali Ghodsi, Lect 10 (Fall 2020): Deep learning, Attention mechanism
 ](https://www.youtube.com/watch?v=WFcH7kRNEBc&list=PLehuLRPyt1Hwqk1BopyiREdPfJng2cuNQ&index=7)
@@ -47,3 +50,7 @@
 
 ## Computer Science
 - [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
+
+## Computational Neuroscience
+
+- [ML for Neuroscience, Imperial College London](https://github.com/PBarnaghi/ML4NS)
