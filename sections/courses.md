@@ -37,6 +37,9 @@
 - [Ali Ghodsi, Lect 13 (Fall 2020): Deep learning, Transformer, BERT, GPT
 ](https://www.youtube.com/watch?v=APzuQoScLfc)
 
+## Natural Language Processing
+
+- [A Hands-on Introduction to Natural Language Processing (NLP), by Prof. Mohammad Ghassemi at Michigan](https://github.com/deskool/nlp-class)
 
 ## Child language Acquisition
 - [How Does The Brain Develop Language? (S1EP5)](https://www.youtube.com/watch?v=wVTtIgUn4zE)
