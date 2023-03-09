@@ -15,4 +15,6 @@ There are a lot of great projects, repositories, tools, and all kinds of practic
 
 6- [Theres is an AI for that: list of AI-based Apps](https://theresanaiforthat.com/)
 
-7- [Workboxai gathers and arranges all the top AI tools so that you can acquire superhuman capabilities!](https://workboxai.com/)
+7- [Workboxai: gathers and arranges all the top AI tools so that you can acquire superhuman capabilities!](https://workboxai.com/)
+
+8- [Runway: Everything you need to make anything you want](https://runwayml.com/)
