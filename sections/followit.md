@@ -17,3 +17,5 @@ This is a list of blogs, persons, courses which you may want to check:
 
 
 - https://www.youtube.com/@ycombinator : Videos to help you build a successful startup. Subscribe for startup advice, founder stories, and a look inside Y Combinator.
+
+- https://www.datascienceportfol.io/ : Explore hundreds of data science projects.
