@@ -16,3 +16,4 @@ This is a list of blogs, persons, courses which you may want to check:
 - https://machinelearningmastery.com/ : These are the Step-by-Step Guides For Making Developer Awesome At Machine Learning
 
 
+- https://www.youtube.com/@ycombinator : Videos to help you build a successful startup. Subscribe for startup advice, founder stories, and a look inside Y Combinator.
