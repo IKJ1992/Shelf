@@ -9,6 +9,7 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
 
 
 ## Visualization
-
+- [Chart cheatsheet](../resources/Chart%20Cheatsheet.pdf)
 ## Database
 -[SQL cheatsheet](../resources/SQL%20cheatsheet.pdf)
+
