@@ -41,6 +41,7 @@
 
 - [A Hands-on Introduction to Natural Language Processing (NLP), by Prof. Mohammad Ghassemi at Michigan](https://github.com/deskool/nlp-class)
 
+- [MIT 24.900 Introduction to Linguistics, Spring 2022](https://www.youtube.com/playlist?list=PLUl4u3cNGP63BZGNOqrF2qf_yxOjuG35j)
 ## Child language Acquisition
 - [How Does The Brain Develop Language? (S1EP5)](https://www.youtube.com/watch?v=wVTtIgUn4zE)
 
