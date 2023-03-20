@@ -69,3 +69,5 @@
 - [The Lean Product Playbook](../resources/The%20Lean%20Product%20Playbook.pdf)
 
 -[کتابچه نگارش استراتژی محصول](../resources/%DA%A9%D8%AA%D8%A7%D8%A8%DA%86%D9%87%20%D9%86%DA%AF%D8%A7%D8%B1%D8%B4%20%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%DA%98%DB%8C%20%D9%85%D8%AD%D8%B5%D9%88%D9%84.pdf)
+
+- [بوم تحول دیجیتال](../resources/%DA%A9%D8%AA%D8%A7%D8%A8%20%D8%A8%D9%88%D9%85%20%D8%AA%D8%AD%D9%88%D9%84%20%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84.pdf)
