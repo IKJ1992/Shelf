@@ -27,6 +27,7 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
         - [Speech Generation](#speech-generation)
       - [Neuroscience](#neuroscience)
         - [language](#language)
+      - [Generative Models](#generative-models)
 - [Research](#research)
 - [Data Science](#data-science)
   - [Interview](#interview)
@@ -110,3 +111,6 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
 ## Project Management
 - [Data Science Project Management (The New Guide For ML Teams)](https://neptune.ai/blog/data-science-project-management)
 
+## Generative Models
+- [A History of Generative AI: From GAN to GPT-4 (blog)](https://www.marktechpost.com/2023/03/21/a-history-of-generative-ai-from-gan-to-gpt-4/)
+- [A Comprehensive Survey of AI-Generated Content (AIGC) A History of Generative AI from GAN to ChatGPT](../resources/A%20Comprehensive%20Survey%20of%20AI-Generated%20Content%20A%20History%20of%20Generative%20AI%20from%20GAN%20to%20ChatGPT.pdf)
