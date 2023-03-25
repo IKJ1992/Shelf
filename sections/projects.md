@@ -13,7 +13,7 @@ There are a lot of great projects, repositories, tools, and all kinds of practic
 
 5- [Perplexuty: Ask anything!](https://www.perplexity.ai/)
 
-6- [Theres is an AI for that: list of AI-based Apps](https://theresanaiforthat.com/)
+6- [There's an AI for that: list of AI-based Apps](https://theresanaiforthat.com/)
 
 7- [Workboxai: gathers and arranges all the top AI tools so that you can acquire superhuman capabilities!](https://workboxai.com/)
 
