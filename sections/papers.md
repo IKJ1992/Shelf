@@ -32,6 +32,7 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
 - [Data Science](#data-science)
   - [Interview](#interview)
   - [Project Management](#project-management)
+- [Applications]
 
 ## Machine Learning and Deep Learning
 
@@ -114,3 +115,7 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
 ## Generative Models
 - [A History of Generative AI: From GAN to GPT-4 (blog)](https://www.marktechpost.com/2023/03/21/a-history-of-generative-ai-from-gan-to-gpt-4/)
 - [A Comprehensive Survey of AI-Generated Content (AIGC) A History of Generative AI from GAN to ChatGPT](../resources/A%20Comprehensive%20Survey%20of%20AI-Generated%20Content%20A%20History%20of%20Generative%20AI%20from%20GAN%20to%20ChatGPT.pdf)
+
+## Applications
+
+- [AI in Metaverse](../resources/AI%20in%20Metaverse.pdf)
