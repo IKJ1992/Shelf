@@ -32,7 +32,7 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
 - [Data Science](#data-science)
   - [Interview](#interview)
   - [Project Management](#project-management)
-- [Applications]
+- [Applications](#applications)
 
 ## Machine Learning and Deep Learning
 
