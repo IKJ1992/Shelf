@@ -20,3 +20,5 @@ There are a lot of great projects, repositories, tools, and all kinds of practic
 8- [Runway: Everything you need to make anything you want](https://runwayml.com/)
 
 9- [Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions](https://instruct-nerf2nerf.github.io/)
+
+10- [FUTUREPEDIA: THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY](https://www.futurepedia.io/)
