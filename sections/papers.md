@@ -119,3 +119,4 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
 ## Applications
 
 - [AI in Metaverse](../resources/AI%20in%20Metaverse.pdf)
+- [When will 1 Billion People Use Generative AI?](https://www.linkedin.com/pulse/when-billion-people-use-generative-ai-2024-doug-hohulin/)
