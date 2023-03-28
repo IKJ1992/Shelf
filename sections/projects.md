@@ -22,3 +22,7 @@ There are a lot of great projects, repositories, tools, and all kinds of practic
 9- [Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions](https://instruct-nerf2nerf.github.io/)
 
 10- [FUTUREPEDIA: THE LARGEST AI TOOLS DIRECTORY, UPDATED DAILY](https://www.futurepedia.io/)
+
+11- [Generative AI MegaList 2023](https://docs.google.com/spreadsheets/d/e/2PACX-1vQmZxKQQgHftOZdgM_QgQ6JDGeG6Gj-qeHNVqK0o-213-9w35l7iHv4kN9Gr4y5fVBXTkdBmgYBnQBA/pubhtml#)
+
+12- [MonkeyLearn: No-Code Text Analytics](https://monkeylearn.com/)
