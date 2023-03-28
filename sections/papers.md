@@ -120,3 +120,4 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
 
 - [AI in Metaverse](../resources/AI%20in%20Metaverse.pdf)
 - [When will 1 Billion People Use Generative AI?](https://www.linkedin.com/pulse/when-billion-people-use-generative-ai-2024-doug-hohulin/)
+- [Practical Guide to AI in the Metaverse](https://alan-smithson.medium.com/practical-guide-to-ai-in-the-metaverse-583020bbe61f)
