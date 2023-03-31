@@ -4,7 +4,7 @@
 papers, blog posts, powerpoints, and lecture notes are listed below:
 ## Table Of Contents
 - [Artificial Intelligence]()
-  - [Machine Learning and Deep Learning]()
+  - [Machine Learning and Deep Learning](#machine-learning-and-deep-learning)
     - [Deep Neural Networks]()
       - [Attention](#attention)
       - [Transformers](#transformers)
@@ -37,6 +37,7 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
 ## Machine Learning and Deep Learning
 
 - [Math essentials for ML](../resources/mathofmachinelearning.pdf)
+- [Math4ML](../resources/Math4ML.pdf)
 ## Attention
 - [All you need to know about ‘Attention’ and ‘Transformers’ — In-depth Understanding — Part 1](https://towardsdatascience.com/all-you-need-to-know-about-attention-and-transformers-in-depth-understanding-part-1-552f0b41d021)
 ## Transformers
