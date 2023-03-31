@@ -109,7 +109,7 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
 
 ## language
 - [The Brain Basis of Language Processing From Structure to Function](../resources/The%20Brain%20Basis%20of%20Language%20Processing%20From%20Structure%20to%20Function.pdf)
-
+- [Evidence of a predictive coding hierarchy in the human brain listening to speech](../resources/Evidence%20of%20a%20predictive%20coding%20hierarchy%20in%20the%20human%20brain%20listening%20to%20speech.pdf)
 ## Project Management
 - [Data Science Project Management (The New Guide For ML Teams)](https://neptune.ai/blog/data-science-project-management)
 
