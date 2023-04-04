@@ -30,3 +30,5 @@ There are a lot of great projects, repositories, tools, and all kinds of practic
 13- [GPT4All: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue](https://github.com/nomic-ai/gpt4all)
 
 14- [Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality](https://vicuna.lmsys.org/)
+
+15- [ControlNet is a neural network structure to control diffusion models by adding extra conditions](https://github.com/lllyasviel/ControlNet)
