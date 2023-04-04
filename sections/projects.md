@@ -28,3 +28,5 @@ There are a lot of great projects, repositories, tools, and all kinds of practic
 12- [MonkeyLearn: No-Code Text Analytics](https://monkeylearn.com/)
 
 13- [GPT4All: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue](https://github.com/nomic-ai/gpt4all)
+
+14- [Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality](https://vicuna.lmsys.org/)
