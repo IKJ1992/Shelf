@@ -32,3 +32,5 @@ There are a lot of great projects, repositories, tools, and all kinds of practic
 14- [Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90% ChatGPT Quality](https://vicuna.lmsys.org/)
 
 15- [ControlNet is a neural network structure to control diffusion models by adding extra conditions](https://github.com/lllyasviel/ControlNet)
+
+16- [Leveraging LangChain and Large Language Models for Accurate PDF-Based Question Answering](https://github.com/mallahyari/drqa)
