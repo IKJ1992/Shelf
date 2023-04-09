@@ -28,7 +28,7 @@
 
 - [Lectures for INFO8010 - Deep Learning, ULiège, Spring 2023](https://github.com/glouppe/info8010-deep-learning)
 
-
+- [Reproducible Deep Learning](https://www.sscardapane.it/teaching/reproducibledl/)
 ## Attention 
 - [Ali Ghodsi, Lect 10 (Fall 2020): Deep learning, Attention mechanism
 ](https://www.youtube.com/watch?v=WFcH7kRNEBc&list=PLehuLRPyt1Hwqk1BopyiREdPfJng2cuNQ&index=7)
