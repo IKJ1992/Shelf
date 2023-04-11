@@ -34,3 +34,5 @@ There are a lot of great projects, repositories, tools, and all kinds of practic
 15- [ControlNet is a neural network structure to control diffusion models by adding extra conditions](https://github.com/lllyasviel/ControlNet)
 
 16- [Leveraging LangChain and Large Language Models for Accurate PDF-Based Question Answering](https://github.com/mallahyari/drqa)
+
+17- [Colossal-AI: Making large AI models cheaper, faster, and more accessible](https://github.com/hpcaitech/ColossalAI)
