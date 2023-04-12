@@ -36,3 +36,5 @@ There are a lot of great projects, repositories, tools, and all kinds of practic
 16- [Leveraging LangChain and Large Language Models for Accurate PDF-Based Question Answering](https://github.com/mallahyari/drqa)
 
 17- [Colossal-AI: Making large AI models cheaper, faster, and more accessible](https://github.com/hpcaitech/ColossalAI)
+
+18- [Assemble, configure, and deploy autonomous AI Agents in your browser.](https://github.com/reworkd/AgentGPT)
