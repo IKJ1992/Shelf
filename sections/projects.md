@@ -38,3 +38,5 @@ There are a lot of great projects, repositories, tools, and all kinds of practic
 17- [Colossal-AI: Making large AI models cheaper, faster, and more accessible](https://github.com/hpcaitech/ColossalAI)
 
 18- [Assemble, configure, and deploy autonomous AI Agents in your browser.](https://github.com/reworkd/AgentGPT)
+
+19- [Meet HeyGen - The best AI video generation platform for your team](https://www.heygen.com/?from=moviola)
