@@ -40,3 +40,5 @@ There are a lot of great projects, repositories, tools, and all kinds of practic
 18- [Assemble, configure, and deploy autonomous AI Agents in your browser.](https://github.com/reworkd/AgentGPT)
 
 19- [Meet HeyGen - The best AI video generation platform for your team](https://www.heygen.com/?from=moviola)
+
+20- [SDArt : Alice in Diffusion Land (version based on 1.5)](https://huggingface.co/Guizmus/SDArt_AliceInDiffusionLand)
