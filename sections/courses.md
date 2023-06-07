@@ -53,6 +53,7 @@
 ## Diffusion Models
 - [Fast.ai: 1st Two Lessons of From Deep Learning Foundations to Stable Diffusion](https://www.fast.ai/posts/part2-2022-preview.html)
 - [What are Diffusion Models?](https://youtu.be/fbLgFrlTnGU)
+- [How Diffusion Models Work](https://learn.deeplearning.ai/diffusion-models)
 
 ## Computer Science
 - [CS Video Courses](https://github.com/Developer-Y/cs-video-courses)
