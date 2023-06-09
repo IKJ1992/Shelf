@@ -9,6 +9,8 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
       - [Attention](#attention)
       - [Transformers](#transformers)
       - [Diffusion Models](#diffusion-models)
+      - [Self-supervised Learning](#self-supervised-learning)
+
     - [Natural Language Processing]()
       - [Text Processing]()
         - [Corpus]()
@@ -48,6 +50,9 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
 - [The Illustrated Retrieval Transformer](https://jalammar.github.io/illustrated-retrieval-transformer/)
 # Information Retrieval
 - [Autoregressive Search Engines Generating Substrings as Document Identifiers](../resources/Autoregressive%20Search%20Engines%20Generating%20Substrings%20as%20Document%20Identifiers.pdf)
+
+# Self-supervised Learning
+- [A cookbook of Self-Supervised Learning](../resources/A%20Cookbook%20of%20Self-Supervised%20Learning.pdf)
 
 # Sequence to Sequence Models
 - [BART Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](../resources/BART%20Denoising%20Sequence-to-Sequence%20Pre-training%20for%20Natural%20Language%20Generation%2C%20Translation%2C%20and%20Comprehension.pdf)
