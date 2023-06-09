@@ -41,7 +41,7 @@
 - [Effective Data Science Infrastructure](../resources/Effective%20Data%20Science%20Infrastructure.pdf)
 - [Designing Data-Intensive Applications The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](../resources/Designing%20Data-Intensive%20Applications%20The%20Big%20Ideas%20Behind%20Reliable%2C%20Scalable%2C%20and%20Maintainable%20Systems.pdf)
 - [Fundamentals of Data Engineering Plan and Build Robust Data Systems](../resources/Fundamentals%20of%20Data%20Engineering%20Plan%20and%20Build%20Robust%20Data%20Systems.pdf)
-
+- [A Programmer’s Guide to Data Mining](../resources/A%20Programmer%E2%80%99s%20Guide%20to%20Data%20Mining.pdf)
 - [Seven Databases in Seven Weeks A Guide to Modern Databases and the NoSQL Movement](../resources/Seven%20Databases%20in%20Seven%20Weeks%20A%20Guide%20to%20Modern%20Databases%20and%20the%20NoSQL%20Movement.pdf)
 
 # Art and Generation
