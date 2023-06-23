@@ -42,3 +42,5 @@ There are a lot of great projects, repositories, tools, and all kinds of practic
 19- [Meet HeyGen - The best AI video generation platform for your team](https://www.heygen.com/?from=moviola)
 
 20- [SDArt : Alice in Diffusion Land (version based on 1.5)](https://huggingface.co/Guizmus/SDArt_AliceInDiffusionLand)
+
+21- [Petals: Run 100B+ language models at home](https://github.com/bigscience-workshop/petals) Thanks to dear Sina!
