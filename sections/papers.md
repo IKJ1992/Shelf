@@ -10,6 +10,7 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
       - [Transformers](#transformers)
       - [Diffusion Models](#diffusion-models)
       - [Self-supervised Learning](#self-supervised-learning)
+      - [Multi-Modals](#multi-modals)
 
     - [Natural Language Processing]()
       - [Text Processing]()
@@ -34,6 +35,7 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
 - [Data Science](#data-science)
   - [Interview](#interview)
   - [Project Management](#project-management)
+  - [Data Mining](#data-mining)
 - [Applications](#applications)
 
 ## Machine Learning and Deep Learning
@@ -42,6 +44,9 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
 - [Math4ML](../resources/Math4ML.pdf)
 ## Attention
 - [All you need to know about ‘Attention’ and ‘Transformers’ — In-depth Understanding — Part 1](https://towardsdatascience.com/all-you-need-to-know-about-attention-and-transformers-in-depth-understanding-part-1-552f0b41d021)
+
+## Multi-Modals
+[Large Multimodal Models CVPR 2023 Tutorial](../resources/Large%20Multimodal%20Models%20CVPR%202023%20Tutorial.pdf)
 ## Transformers
 - [A Gentle Introduction to Positional Encoding In Transformer Models, Part 1](https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/#:~:text=Transformers%20use%20a%20smart%20positional,summed%20with%20its%20positional%20information.)
 - [All you need to know about ‘Attention’ and ‘Transformers’ — In-depth Understanding — Part 2](https://towardsdatascience.com/all-you-need-to-know-about-attention-and-transformers-in-depth-understanding-part-2-bf2403804ada)
@@ -115,6 +120,8 @@ papers, blog posts, powerpoints, and lecture notes are listed below:
 
 ## Interview
 - [Data Science Interview Questions and Answers](../resources/Data%20Science%20Interview%20Questions%20and%20Answers.pdf)
+
+## Data Mining
 
 ## language
 - [The Brain Basis of Language Processing From Structure to Function](../resources/The%20Brain%20Basis%20of%20Language%20Processing%20From%20Structure%20to%20Function.pdf)
